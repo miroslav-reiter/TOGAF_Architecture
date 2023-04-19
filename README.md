@@ -47,7 +47,7 @@ Na skúške treba mať so sebou občiansky preukaz a zabezpečený prístup na i
 ![image](https://user-images.githubusercontent.com/24510943/232930304-59c06310-4a2a-4bbb-bfd0-f3d401f04c39.png)
 
 ## Zdroje a Odkazy
-https://publications.opengroup.org/
-https://pubs.opengroup.org/onlinepubs/
-https://www.opengroup.org/certifications
+1. https://publications.opengroup.org/
+1. https://pubs.opengroup.org/onlinepubs/  
+1. https://www.opengroup.org/certifications  
 
