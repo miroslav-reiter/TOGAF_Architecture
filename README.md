@@ -1,5 +1,5 @@
 # TOGAF Architecture
-TOGAF = The Open Group Architecture Framework (Štandard od r. 1995)
+**TOGAF** = The Open Group Architecture Framework (Štandard od r. 1995)
 Najnovšia verzia TOGAF 10 (04-2022)
 
 Čo je Enterprise (Business) Architektúra?
@@ -46,7 +46,7 @@ Na skúške treba mať so sebou občiansky preukaz a zabezpečený prístup na i
 
 ![image](https://user-images.githubusercontent.com/24510943/232930304-59c06310-4a2a-4bbb-bfd0-f3d401f04c39.png)
 
-
+## Zdroje a Odkazy
 https://publications.opengroup.org/
 https://pubs.opengroup.org/onlinepubs/
 https://www.opengroup.org/certifications
