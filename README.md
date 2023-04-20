@@ -29,9 +29,11 @@ Ešte lepšie by bolo použiť licencovaný nástroj TOGAF, ktorý zachytáva te
 
 ### Nástroje na modelovanie Enterprise Architektúry
 1. [Archi Open Source ArchiMate Modelling](https://www.archimatetool.com/)
-2. [Enterprise Architect](https://sparxsystems.com/products/ea/)
-3. [Draw.io](https://app.diagrams.net/)
-3. [Microsoft Visio](https://www.microsoft.com/sk-sk/microsoft-365/visio/flowchart-software)
+1. [Enterprise Architect](https://sparxsystems.com/products/ea/)
+1. [Draw.io](https://app.diagrams.net/)
+1. [Microsoft Visio](https://www.microsoft.com/sk-sk/microsoft-365/visio/flowchart-software)
+1. [Cheatsheet ArchiMate](https://gbruneau.github.io/ArchiMate/e)
+1. [Špecifikácia/Dokumentácia ArchiMate](https://pubs.opengroup.org/architecture/archimate32-doc/)
 
 ## 🏆 Certifikačná Skúška Foundation
 Certifikačný Test je na verziu TOGAF 9.2 (od 04-2018)
